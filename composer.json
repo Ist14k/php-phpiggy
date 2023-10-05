@@ -1,0 +1,18 @@
+{
+    "name": "istiak/phpiggy",
+    "description": "A PHP Application for Tracking Expenses",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Istiak Ahmmed Akash",
+            "email": "istiak_akash@outlook.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/Framework",
+            "App\\": "src/App"
+        }
+    }
+}
